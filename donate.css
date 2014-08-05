@@ -5,3 +5,10 @@ p{
 	color: green;
 	font-weight: 20;
 }
+body
+{
+background-image:url('http://www.estartap.com/wp-content/uploads/2013/12/coaching.jpg');
+background-repeat:no-repeat;
+width: 100%;
+height: 100%;
+}
