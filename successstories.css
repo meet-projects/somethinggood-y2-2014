@@ -1,0 +1,10 @@
+.background {
+	background-color: #f0f8ff;
+}
+.italic {
+	font-style: italic;
+}
+
+p, li, ul, h1, h2 {
+	font-size: 20px;
+}
