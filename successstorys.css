@@ -1,4 +1,5 @@
 .background {
+<<<<<<< HEAD
     background-color: #f0f8ff;
 }
 .italic {
@@ -7,6 +8,16 @@
 
 p, li, ul, , h2 , .italic { margin-left: 3px
     
+=======
+	background-color: #f0f8ff;
+}
+.italic {
+	font-style: italic;
+}
+
+p, li, ul, , h2 , .italic { margin-left: 3px
+	
+>>>>>>> 3c684779cde29c6bb6fd3b548d2ef0df0ce96ebd
 }
 
 .boxed {
@@ -19,6 +30,7 @@ p, li, ul, , h2 , .italic { margin-left: 3px
 }
 
 #temp{
+<<<<<<< HEAD
     color:#0F357F;
     }
 .left{
@@ -71,4 +83,58 @@ hr{
 }
 img{
     width:200px;
+=======
+	color:#0F357F;
+	}
+.left{
+	float: left;
+}
+.right {
+	float: right;
+}
+ul li a, ul li a:link, ul li a:hover, ul li a:visited, ul li a:active {
+	text-decoration: none;
+	color:#5656b6;
+}
+
+ul li {
+	display:inline;
+	text-decoration: none;
+	text-align:left;
+	font-weight:bold;
+	color:#3838e8;
+	font-size:20px;
+	padding-bottom:9px;
+	padding-top:9px;
+	margin-right:40px;
+	/*background-color:#3cc;*/
+}
+
+ul :hover{
+	background-color:#999;
+}
+ul{
+	position:relative;
+	top:15%;
+	
+}
+/*blue color #80b6e5*/
+.container-fluid{
+	text-decoration:none;
+	height:40px;
+	background-color:#333;
+	}
+:not(.navbar):not(.img); {
+	background-color:blue;
+	/*#f0f8ff*/
+	}
+/*#Idea{
+	width:100px;
+}*/
+hr{
+	width:100px;
+}
+img{
+	width:200px;
+>>>>>>> 3c684779cde29c6bb6fd3b548d2ef0df0ce96ebd
 }
